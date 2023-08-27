@@ -4,8 +4,10 @@ website portfolio pribadi
 Referensi dari [WPU](https://www.youtube.com/@sandhikagalihWPU)
 
 1. Light Mode
-![f5e8ce46-223e-4d55-844d-60f97120d98f](https://github.com/fahmyfauzi/portfolio/assets/58255031/54b11d60-2bf8-468d-b2ef-1ebfc5745bb8)
+![907858c0-9735-4214-b020-cce8e1932ec3](https://github.com/fahmyfauzi/fahmyfauzi.github.io/assets/58255031/ac726d0e-73a4-4929-8687-53af7f6108ef)
+
 
 
 2. Dark Mode
-![a6630c70-b0a1-42d9-bb49-4de5a893578e](https://github.com/fahmyfauzi/portfolio/assets/58255031/98db8531-406a-480a-951f-dfa1133f232e)
+![499c6123-b0d2-4dd3-9a34-b7d0d0fad278](https://github.com/fahmyfauzi/fahmyfauzi.github.io/assets/58255031/a5031139-b7ec-45c3-8f57-06eaf2fbb755)
+
